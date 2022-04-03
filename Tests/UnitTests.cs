@@ -1,4 +1,4 @@
-sing System;
+using System;
 using NUnit.Framework;
 
 namespace GithubActionsLab
